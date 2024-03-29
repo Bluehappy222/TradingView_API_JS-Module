@@ -1,5 +1,6 @@
 This is a JS module for TradingView API.
 This module shows real time data for market price.
+-
 How to Use:
 -
   install
@@ -7,8 +8,9 @@ How to Use:
 - 
   running
     npm start        \\ show BTCUSD value in Crypto typically
-        
+-        
   or 
     npm start 'price' 'marketname'   \\for example: "npm start ethusd crypto" , "npm start aapl nasdaq"
-
+-
 Enjoy!!!
+-
